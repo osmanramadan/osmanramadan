@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @osmanramadan,IT student and full stack developer
+- 👋 Hi, I’m @osmanramadan,Flutter developer and Full stack developer
 - 👀 I’m interested in (cyber security,web development,flutter)
 - 💞️ I’m looking to collaborate on ...
 - 📫  my email: osmanramadan840@gmail.com 
