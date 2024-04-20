@@ -33,8 +33,8 @@ My services include, but are not limited to:
 
 - 
 ### 📫 Contact
-- linkedin: https://www.linkedin.com/in/osmanramadan/
-- my email: osmanramadan840@gmail.com 
+- **linkedin**: https://www.linkedin.com/in/osmanramadan/
+- **my email**: osmanramadan840@gmail.com 
 
 
 
