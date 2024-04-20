@@ -4,13 +4,13 @@ My ability to learn quickly and adapt to challenges makes me able to keep pace w
 
 My services include, but are not limited to:
 
-**Website development using (React, Html, Javascript, Css, Nodejs, Express, Php)**
+--- **Website development using (React, Html, Javascript, Css, Nodejs, Express, Php)**
 
-**Programming applications for Android phones using (Dart, Flutter, Firebase)**
+--- **Programming applications for Android phones using (Dart, Flutter, Firebase)**
 
-**Database analysis, design and programming using (PostgresSQL, MySQL, PowerDesigner)**
+--- **Database analysis, design and programming using (PostgresSQL, MySQL, PowerDesigner)**
 
-**Desktop application programming using (Python)**
+--- **Desktop application programming using (Python)**
 
 
 ## 🛠️ Skills
