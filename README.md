@@ -31,7 +31,7 @@ My services include, but are not limited to:
 ### 💻 System Administration
 - **Linux**: Proficient in Linux systems and shell scripting
 
-- 
+
 ### 📫 Contact
 - **linkedin**: https://www.linkedin.com/in/osmanramadan/
 - **my email**: osmanramadan840@gmail.com 
