@@ -10,7 +10,7 @@ My services include, but are not limited to:
 
 --> **Database analysis, design and programming using (PostgresSQL, MySQL, PowerDesigner)**
 
---> **Desktop application programming using (Python)**
+--> **Desktop application programming and AI using (Python)**
 
 
 ## 🛠️ Skills
