@@ -1,4 +1,4 @@
-I am Osman, a software engineer. I studied computer science and software engineering at the College of Computers and Artificial Intelligence, in addition to many online courses with platforms such as Udacity. I am committed to providing innovative and smart technological solutions. I always strive to achieve the highest levels of quality and performance in every project I undertake.
+I am  a software engineer. I studied computer science and software engineering at the College of Computers and Artificial Intelligence, in addition to many online courses with platforms such as Udacity. I am committed to providing innovative and smart technological solutions. I always strive to achieve the highest levels of quality and performance in every project I undertake.
 
 My ability to learn quickly and adapt to challenges makes me able to keep pace with technological developments and provide the most effective solutions.
 
