@@ -4,7 +4,7 @@ My ability to learn quickly and adapt to challenges makes me able to keep pace w
 
 My services include, but are not limited to:
 
---> **Website development using (React, Html,Javascript, Css, Nodejs, Express,Wordpress,Php)**
+--> **Website development using (React, Html,Javascript, Css, Express,Wordpress,Php)**
 
 --> **Programming applications for Android phones using (Dart, Flutter, Firebase)**
 
@@ -15,8 +15,8 @@ My services include, but are not limited to:
 
 ## 🛠️ Skills
 ### 🌐 Web Development
-- **Languages**: Node.js, PHP, JavaScript
-- **Frameworks and Libraries**: Express, Next.js, React, Redux
+- **Languages**:  PHP, JavaScript
+- **Frameworks and Libraries**: Express, Next.js , Node.js, React, Redux
 - **Frontend Technologies**: HTML5, CSS3
 - **Databases**: SQL (MySQL), NoSQL (MongoDB, Firebase)
 
