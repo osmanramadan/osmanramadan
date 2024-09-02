@@ -12,6 +12,16 @@ My services include, but are not limited to:
 
 --> **Desktop application programming and AI using (Python)**
 
+<h2><img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width ="35"> Github Stats </h2>
+
+<br>
+<img src="https://github-readme-stats-five-smoky-25.vercel.app/api?username=MARiam-2002&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&hide=contribs,issues&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=2&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage" alt="stats graph" width="400"/>  
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MARiam-2002&theme=dracula)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MARiam-2002&theme=dracula)![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MARiam-2002&theme=dracula) 
+
+
+
+<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> My Skills</f2> 
 
 ## 🛠️ Skills
 ### 🌐 Web Development
