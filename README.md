@@ -40,7 +40,7 @@ My services include, but are not limited to:
 ### 💻 System Administration
 - **Linux**: Proficient in Linux systems and shell scripting
 
-<h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> Connect with me </h2>
+<h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> Contact with me </h2>
 <p>
   <a href="https://www.linkedin.com/in/osmanramadan/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
    <a href="[https://www.facebook.com/profile.php?id=100049529231810&locale=ar_AR](https://www.facebook.com/profile.php?id=100012838424865)"><img src="https://img.shields.io/badge/facebook-1b74e4.svg?style=for-the- 
