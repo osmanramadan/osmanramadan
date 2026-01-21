@@ -24,10 +24,10 @@ My services include, but are not limited to:
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> My Skills</f2> 
 
 ### 🌐 Web Development
-- **Languages**:  PHP, JavaScript
-- **Frameworks and Libraries**: Express, Next.js , Node.js, React, Redux
+- **Languages**:  JavaScript , Php
+- **Frameworks and Libraries**: Express, Next.js , React , Node.js, Redux
 - **Frontend Technologies**: HTML5, CSS3
-- **Databases**: SQL (MySQL), NoSQL (MongoDB, Firebase)
+- **Databases**: SQL (MySQL,PostgreSQL), NoSQL (MongoDB, Firebase)
 
 ### 📱 Mobile App Development
 - **Android**: Middle level in Flutter for Android app development
