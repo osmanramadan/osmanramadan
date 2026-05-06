@@ -6,11 +6,9 @@ My services include, but are not limited to:
 
 --> **Website development using (React, Html,Javascript, Css, Express,Wordpress,Php)**
 
---> **Programming applications for Android phones using (Dart, Flutter, Firebase)**
-
 --> **Database analysis, design and programming using (PostgresSQL, MySQL, PowerDesigner)**
 
---> **Desktop application programming and AI using (Python)**
+--> **Desktop application programming Web Scraping and AI using (Python)**
 
 <h2><img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width ="35"> Github Stats </h2>
 
@@ -29,11 +27,8 @@ My services include, but are not limited to:
 - **Frontend Technologies**: HTML5, CSS3
 - **Databases**: SQL (MySQL,PostgreSQL), NoSQL (MongoDB, Firebase)
 
-### 📱 Mobile App Development
-- **Android**: Middle level in Flutter for Android app development
-- **Architectural Patterns**: Model-View-Controller (MVC)
 
-### 🤖 AI , Cyber Security and Machine Learning
+### 🤖 AI , Cyber Security , Web Scraping and Machine Learning
 - **Languages** : Python
 
 
